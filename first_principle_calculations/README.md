@@ -87,7 +87,7 @@ The following directories contain the datasets:
 
 ## Requirements
 
-To run the calculations in this repository, you will need:
+To run the calculations in this folder, you will need:
 
 - **VASP** installed on your local machine or accessible on a supercomputer cluster.
 - A compatible **CPU** (e.g., Intel or AMD) with sufficient computational resources for running DFT calculations.
