@@ -85,4 +85,11 @@ The following directories contain the datasets:
   - [FO_NMR INPUT files](./NaTaO2F2/FO_NMR/INPUT_files)
   - [FO_NMR OUTPUT files](./NaTaO2F2/FO_NMR/OUTPUT_files)
 
+## Requirements
+
+To run the calculations in this repository, you will need:
+
+- **VASP** installed on your local machine or accessible on a supercomputer cluster.
+- A compatible **CPU** (e.g., Intel or AMD) with sufficient computational resources for running DFT calculations.
+
 For further details, please refer to the respective folders or contact the author via the provided email.
