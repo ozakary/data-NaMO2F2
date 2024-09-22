@@ -8,6 +8,6 @@ This is the Supporting Dataset for the manuscript “Different Magnitudes of Sec
 
 The dataset comprises the following sections:
 
-1. X-ray powder diffraction data (directory)
-2. First principle calculation data (directory)
-3. Python scripts and raw numerical data for all figures included in the main manuscript and the Supporting Information (directory)
+1. X-ray powder diffraction data. (directory)
+2. First principle calculation data. (directory)
+3. Python scripts and raw numerical data for all figures included in the main manuscript and the Supporting Information. (directory)
