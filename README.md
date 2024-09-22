@@ -11,7 +11,7 @@ The dataset comprises the following sections:
 1. Powder X-ray diffraction data. ([directory](./powder_X-ray_diffraction/))
 2. Thermogravimetric and differential thermal analyses data. ([directory](./TGA_DTA/))
 3. Solid-state nuclear magnetic resonance spectroscopy data. ([directory](./ssNMR_spectra_exp_&_fit/))
-4. First principle calculation data. ([directory](./first_principle_calculations/))
+4. First principle calculations data. ([directory](./first_principle_calculations/))
 5. Python scripts and raw numerical data for all figures included in the main manuscript and the Supporting Information. ([directory](./first_principle_calculations/))
 
 ---
