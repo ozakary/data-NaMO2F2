@@ -1,0 +1,12 @@
+#!/usr/bin/env python3.9
+import py4vasp as pv
+my_calc = pv.Calculation.from_path(".")
+
+# uncomment the quantity you are interested in
+my_calc.dos.to_image(filename="Dos.png")
+#my_calc.energy[:].to_image("TOTEN, ETOTAL", filename="E_ion-tot.png")
+#my_calc.energy[:].to_image("EKIN, temperature", filename="E_KIN-T.png")
+#my_calc.energy[:].to_image("ES, EP", filename="E_S-P.png")
+
+#my_calc.energy[1:5].read()
+#my_calc.energy[-1].read()
