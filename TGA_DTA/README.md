@@ -2,7 +2,7 @@
 **Author**: Ouail Zakary \
 **ORCID**: [0000-0002-7793-3306](https://orcid.org/0000-0002-7793-3306) \
 **E-mail**: [Ouail.Zakary@oulu.fi](mailto:Ouail.Zakary@oulu.fi) \
-**Website**: [Ouail Zakary - University of Oulu](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
+**Website**: [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
 
 This folder contains thermogravimetric analysis (TGA) and differential thermal analysis (DTA) data for the compounds NaNbO<sub>2</sub>F<sub>2</sub> and NaTaO<sub>2</sub>F<sub>2</sub>. The data is organized by compound and experiment cycle.
 
