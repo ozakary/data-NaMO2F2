@@ -1,0 +1,12 @@
+    ISTART=0;
+    ISMEAR=0;SIGMA=0.01
+    ENCUT=550
+    PREC=N
+    LREAL=A
+    EDIFF=1e-8
+    
+    LCHIMAG=.TRUE.	
+    DQ = 0.003
+    ICHIBARE = 1
+    LEFG=.TRUE.
+    QUAD_EFG = 104 -320 -25.58 -94.2
