@@ -1,0 +1,86 @@
+COMM  #(C) 2021 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+! Current global Chi2 (Bragg contrib.) =      8.665    
+! Files => DAT-file: NaNbO2F2.dat,  PCR-file: NaNbO2F2
+!Job Npr Nph Nba Nex Nsc Nor Dum Iwg Ilo Ias Res Ste Nre Cry Uni Cor Opt Aut
+   0   5   1  23   1   0   0   0   0   0   0   0   0   0   0   0   0   0   1
+!
+!Ipr Ppl Ioc Mat Pcr Ls1 Ls2 Ls3 NLI Prf Ins Rpa Sym Hkl Fou Sho Ana
+   0   0   1   0   1   0   4   0   0   3  10  -1   0   0   0   0   0
+!
+! Lambda1  Lambda2    Ratio    Bkpos    Wdt    Cthm     muR   AsyLim   Rpolarz  2nd-muR -> Patt# 1
+ 1.540560 1.544390  0.50000   40.000  8.0000  0.9100  0.0000   90.00    0.0000  0.0000
+!
+!NCY  Eps  R_at  R_an  R_pr  R_gl     Thmin       Step       Thmax    PSD    Sent0
+ 33  0.10  1.00  1.00  1.00  1.00     10.0904   0.013132    99.9934   0.000   0.000
+!
+!2Theta/TOF/E(Kev)   Background  for Pattern#  1
+        10.1097      7903.1006          0.00
+        12.7959      8281.2852          0.00
+        13.7602      8106.2646          0.00
+        15.6658      7919.4595          0.00
+        18.2832      7498.8330          0.00
+        20.6250      7443.6387          0.00
+        25.6531      7373.7046          0.00
+        30.2526      7118.4004          0.00
+        35.9235      6450.8574          0.00
+        38.6556      6450.6587          0.00
+        42.6735      6327.6260          0.00
+        45.4541      6480.4233          0.00
+        54.5918      6361.6226          0.00
+        62.7194      6035.6431          0.00
+        67.3240      5918.4756          0.00
+        75.4107      5979.5718          0.00
+        78.2347      5775.1021          0.00
+        82.2755      5833.2148          0.00
+        86.2934      5802.2300          0.00
+        90.6709      5729.1079          0.00
+        94.8036      5755.0742          0.00
+        96.8699      5706.6338          0.00
+        99.9235      5657.3413          0.00
+! 
+! Excluded regions (LowT  HighT) for Pattern#  1
+       14.00       18.00
+! 
+!
+      32    !Number of refined parameters
+!
+!  Zero    Code    SyCos    Code   SySin    Code  Lambda     Code MORE ->Patt# 1
+ -0.01220   11.0  0.00000    0.0  0.00000    0.0 0.000000    0.00   0
+!-------------------------------------------------------------------------------
+!  Data for PHASE number:   1  ==> Current R_Bragg for Pattern#  1:   7.9985
+!-------------------------------------------------------------------------------
+ #(C) 2021 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+!
+!Nat Dis Ang Pr1 Pr2 Pr3 Jbt Irf Isy Str Furth       ATZ    Nvk Npr More
+   6   0   0 1.0 0.0 0.0   0   0   0   0   0        743.567   0   5   0
+!
+!
+P 1 21/c 1               <--Space group symbol
+!Atom   Typ       X        Y        Z     Biso       Occ     In Fin N_t Spc /Codes
+Na1    Na      0.36677  0.78569  0.11929  1.12908   1.00000   0   0   0    0  
+                151.00   161.00   171.00     0.00      0.00
+Nb1    Nb      0.15520  0.25648  0.31789  1.31779   1.00000   0   0   0    0  
+                181.00   191.00   201.00     0.00      0.00
+O1     O       0.18236  0.15779  0.06279  1.45281   1.00000   0   0   0    0  
+                211.00   221.00   231.00     0.00      0.00
+O2     O       0.07363  0.58934  0.23196  1.45281   1.00000   0   0   0    0  
+                241.00   251.00   261.00     0.00      0.00
+F1     F       0.36671  0.42595  0.30358  1.79232   1.00000   0   0   0    0  
+                271.00   281.00   291.00     0.00      0.00
+F2     F       0.31759  0.97850  0.38415  1.79232   1.00000   0   0   0    0  
+                301.00   311.00   321.00     0.00      0.00
+!-------> Profile Parameters for Pattern #   1  ----> Phase #   1
+!  Scale          Shape1      Bov      Str1      Str2      Str3   Strain-Model
+ 0.6514921E-02   0.45102   0.00000   0.00000   0.00000   0.00000       0
+      21.00000    91.000     0.000     0.000     0.000     0.000
+!       U         V          W           X          Y        GauSiz   LorSiz Size-Model
+   0.028670  -0.009274   0.006209   0.003435   0.000000   0.000000   0.000000    0
+     71.000    111.000     81.000    101.000      0.000      0.000      0.000
+!     a          b         c        alpha      beta       gamma      #Cell Info
+   8.019597   5.418579   7.628967  90.000000 102.026390  90.000000   
+   31.00000   41.00000   51.00000    0.00000   61.00000    0.00000
+!  Pref1    Pref2      Asy1     Asy2     Asy3     Asy4  
+ -0.39936  0.00000  0.02999  0.01213  0.00000  0.00000
+   141.00     0.00   121.00   131.00     0.00     0.00
+!  2Th1/TOF1    2Th2/TOF2  Pattern to plot
+      10.090      99.993       1
