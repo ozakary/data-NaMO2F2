@@ -1,9 +1,8 @@
 # NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Geometry Optimization and NMR Parameters Calculations
-
-**Author:** Ouail Zakary  
-**ORCID:** [0000-0002-7793-3306](https://orcid.org/0000-0002-7793-3306)  
-**E-mail:** [Ouail.Zakary@oulu.fi](mailto:Ouail.Zakary@oulu.fi)  
-**Website:** [Ouail_Zakary.html](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
+**Author**: Ouail Zakary \
+**ORCID**: [0000-0002-7793-3306](https://orcid.org/0000-0002-7793-3306) \
+**E-mail**: [Ouail.Zakary@oulu.fi](mailto:Ouail.Zakary@oulu.fi) \
+**Website**: [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
 
 This repository contains datasets from DFT calculations performed to optimize the local structures of NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) and to compute their NMR parameters.
 
@@ -89,8 +88,10 @@ The following directories contain the datasets:
 
 The calculations in this folder were performed on the **IMMM cluster** using the **charger (node with 48 CPUs and 192Go memory)**. To run the calculations in this folder, you will need:
 
-- **VASP** installed on your local machine or accessible on a supercomputer cluster.
+- **VASP** installed on your local machine or accessible on a supercomputer cluster (more information about **VASP** can be found in [VASP - wiki](https://www.vasp.at/)).
 - A compatible **CPU** (e.g., Intel or AMD) with sufficient computational resources for running DFT calculations.
 - The job batch script is configured for the SLURM workload manager and includes specifications for nodes, tasks, runtime, memory, and other settings. Modify the script to suit your specific calculation needs.
+
+---
 
 For further details, please refer to the respective folders or contact the author via the provided email.
