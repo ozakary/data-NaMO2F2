@@ -1,0 +1,84 @@
+# Mon Apr  4 22:23:15 2022
+#$$PROBEIDENTIFIER=H13863_0004
+#$$PROBENAME=PH MAS 850W6 BL1.3 X/Y/F-H DVT
+#$$SHIMID=272623
+#
+# Active Shim Gradients
+#
+Z           		-15800          
+Z2          		-40000          
+Z3          		0               
+Z4          		0               
+Z5          		0               
+Z6          		0               
+X           		0               
+XZ          		0               
+XZ2         		0               
+XZ3         		0               
+XZ4         		0               
+Y           		2500            
+YZ          		0               
+YZ2         		0               
+YZ3         		0               
+YZ4         		0               
+XY          		0               
+XYZ         		0               
+XYZ2        		0               
+XYZ3        		0               
+(X2-Y2)     		0               
+(X2-Y2)Z    		0               
+(X2-Y2)Z2   		0               
+(X2-Y2)Z3   		0               
+X3          		0               
+X3Z         		0               
+Y3          		0               
+Y3Z         		0               
+#
+# Lock Parameter
+#
+FIELD		  -0.741
+#
+IEEE64_VERSION_CODE 1
+#
+# Shim currents 
+#
+SHIM_SETTING [ 1]    -3950.00000000
+SHIM_SETTING [ 2]     3134.79400000
+SHIM_SETTING [ 3]      869.90000000
+SHIM_SETTING [ 4]     3272.33900000
+SHIM_SETTING [ 5]     2172.43200000
+SHIM_SETTING [ 6]    -7393.15000000
+SHIM_SETTING [ 7]    -7150.56100000
+SHIM_SETTING [ 8]    10009.34000000
+SHIM_SETTING [ 9]     9990.42800000
+SHIM_SETTING [10]    -4938.82700000
+SHIM_SETTING [11]    -7501.50200000
+SHIM_SETTING [12]        0.00000000
+SHIM_SETTING [13]        0.00000000
+SHIM_SETTING [14]        0.00000000
+SHIM_SETTING [15]       -0.00000000
+SHIM_SETTING [16]        0.00000000
+SHIM_SETTING [17]       -0.00000000
+SHIM_SETTING [18]       -0.00000000
+SHIM_SETTING [19]       -0.00100000
+SHIM_SETTING [20]        0.00000000
+SHIM_SETTING [21]        0.00000000
+SHIM_SETTING [22]        0.00000000
+SHIM_SETTING [23]       -0.00000000
+SHIM_SETTING [24]       -0.00000000
+SHIM_SETTING [25]        0.00000000
+SHIM_SETTING [26]        0.00000000
+SHIM_SETTING [27]        0.00000000
+SHIM_SETTING [28]      564.42400000
+SHIM_SETTING [29]        0.00000000
+SHIM_SETTING [30]        0.00000000
+SHIM_SETTING [31]     -625.00000000
+SHIM_SETTING [32]      564.42400000
+SHIM_SETTING [33]       -0.00000000
+SHIM_SETTING [34]       -0.00000000
+SHIM_SETTING [35]       -0.00000000
+SHIM_SETTING [36]       -0.00000000
+SHIM_SETTING [37]      295.79600000
+SHIM_SETTING [38]      295.79600000
+SHIM_SETTING [39]     -625.00000000
+SHIM_SETTING [40]        0.00000000

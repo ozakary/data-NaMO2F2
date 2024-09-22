@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NMRFit>
+<FitParameters>
+	<timestamp>2023-08-13T16:25:24Z</timestamp>
+	<DMFitVersion>20230120</DMFitVersion>
+	<FitMode>0</FitMode>
+	<FitModeAsc>Fit 1D</FitModeAsc>
+	<Sdev>287.5359895</Sdev>
+	<ComputeParam>
+		<ShapeSize>4096</ShapeSize>
+		<npasab>64</npasab>
+		<ssbMax>10</ssbMax>
+		<QuadStep>5</QuadStep>
+		<EtaStep>5</EtaStep>
+		<CptThreshold>99</CptThreshold>
+		<CSAStep>15</CSAStep>
+		<MinCSAStep>50</MinCSAStep>
+		<GaussMult>0.75</GaussMult>
+		<SWMult>4</SWMult>
+	</ComputeParam>
+	<Dimension>F2
+		<nucleus>93Nb</nucleus>
+		<frequency>208.118019</frequency>
+		<BaseLine>
+			<BLmode>Polynomial</BLmode>
+			<Baseline0>-50.64304541</Baseline0>
+			<Baseline1>-3.93699557e-05</Baseline1>
+			<Baseline2>0</Baseline2>
+			<Baseline3>0</Baseline3>
+		</BaseLine>
+		<spinrate>0</spinrate>
+		<line>
+			<ModelName>int2QUAD</ModelName>
+			<amp Fit="*"  Error="93.82179">64447.27079</amp>
+			<pos Fit="*"  Unit="ppm" Error="0.21700">-1206.047051</pos>
+			<gl>0.5</gl>
+			<tr>1</tr>
+			<em_au>6045.62</em_au>
+			<lb  Unit="ppm">29.04899839</lb>
+			<dCS  Unit="ppm">-285.1716628</dCS>
+			<etaCS>0.0815927018</etaCS>
+			<Phi>-43.55297117</Phi>
+			<Chi>35.55548809</Chi>
+			<Psi>67.26880286</Psi>
+			<CQ Fit="*"  Error="1.59734">42040.54588</CQ>
+			<etaQ Fit="*"  Error="0.00358">0.6022453844</etaQ>
+		</line>
+	</Dimension>
+</FitParameters>
+<GraphParameters>
+	<Dimensions>
+		<X>
+			<min>158675.3544</min>
+			<max>-728313.6941</max>
+			<tic>104059.0095</tic>
+		</X>
+		<Amp>
+			<min>-1901.867261</min>
+			<max>26380.24385</max>
+		</Amp>
+	</Dimensions>
+</GraphParameters>
+<DataFile>
+	<FileName>bl_1R_v3.1r</FileName>
+	<FileTitle>from:  labo850 $$ 2022-06-22 14:51:39.457 +0200  nmrsu@av300wb $$ /opt/topspin3.2/monique/NaNbO2F2_CEMHTI-850/210/pdata/20/procs $$ process /opt/topspin3.2/prog/mod/dataserver  C:\Users\zakar\Nextcloud\My_thesis\papers_and_comments\Paper_n4\NMR_DATA\NMR_spectra_exp_&_fits\93Nb_NaNbO2F2\210_stat_1D_recon\pdata\20\bl_1R_v3.1r</FileTitle>
+</DataFile>
+</NMRFit>

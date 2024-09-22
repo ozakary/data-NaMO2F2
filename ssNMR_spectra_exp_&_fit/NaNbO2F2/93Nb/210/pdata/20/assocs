@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= labo850
+$$ 2022-06-22 14:52:12.161 +0200  nmrsu@av300wb
+$$ /opt/topspin3.2/monique/NaNbO2F2_CEMHTI-850/210/pdata/20/assocs
+$$ process /opt/topspin3.2/prog/mod/dataserver
+##$MULTDISP= </opt/topspin3.2/monique/NaNbO2F2_CEMHTI-850/210/pdata/1>
+##END=

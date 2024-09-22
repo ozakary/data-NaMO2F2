@@ -1,0 +1,25 @@
+##TITLE= Audit trail, TopSpin 4.1.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= labo850
+$$ /opt/nmrdata/data/TGIR_Legein.1650/nmr/NaNbO2F2/210/pdata/20/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2022-04-05 10:06:04.712 +0200>,<labo850>,<RMN850n>,<proc1d>,<TopSpin 4.1.3>,
+      <accumulate start offset = 0 scale = 1 ppm
+       1 210 "NaNbO2F2" "/opt/nmrdata/data/TGIR_Legein.1650/nmr"
+       data hash MD5: 2K
+       96 31 BC 78 8D E2 E4 DE 16 EC 2B 83 F7 46 5B CD>)
+(   2,<2022-04-05 10:06:04.742 +0200>,<labo850>,<RMN850n>,<proc1d>,<TopSpin 4.1.3>,
+      <accumulate offset = 0 scale = 1 ppm
+       1 211 "NaNbO2F2" "/opt/nmrdata/data/TGIR_Legein.1650/nmr"
+       data hash MD5: 2K
+       36 2F 30 8A AA 96 0D AA 0E 74 3A FB F0 CB DC 54>)
+(   3,<2022-04-05 10:06:04.850 +0200>,<labo850>,<RMN850n>,<proc1d>,<TopSpin 4.1.3>,
+      <accumulate offset = 0 scale = 1 ppm
+       1 212 "NaNbO2F2" "/opt/nmrdata/data/TGIR_Legein.1650/nmr"
+       data hash MD5: 2K
+       D3 FF D1 7F B6 56 7A A5 F3 1A 67 FF 4C D9 47 C4>)
+##END=
+
+$$ hash MD5
+$$ 9A 19 85 D4 DB 73 E6 79 3F 80 E4 6F 0B C1 77 39

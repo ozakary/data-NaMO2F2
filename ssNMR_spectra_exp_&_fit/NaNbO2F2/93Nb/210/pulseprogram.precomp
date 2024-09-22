@@ -1,0 +1,76 @@
+# 1 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+"acqt0=0"
+"l0=0"
+"p5=2*p1"
+
+
+"d6=(l0*l26+l6)*(1s/cnst31)-(p5/2)-1u"
+"d7=d6+1u-l16*(1s/cnst31)-d10"
+# 16 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+;#define saturation ; to be put in zgoptns "-Dsaturation"
+;#define twoD  ; to be put in zgoptns "-DtwoD"
+;#define 1
+
+# 1 "mc_line 20 file /root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff exp. def. part of mc cmd. before ze"
+; dimension 1D; AQ_mode 
+define delay MCWRK
+define delay MCREST
+"MCREST = 1m - 0.500000*1m"
+"MCWRK = 0.500000*1m"
+# 20 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+1 ze
+# 1 "mc_line 20 file /root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff exp. def. of mc cmd. after ze"
+# 21 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+
+# 1 "mc_line 22 file /root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff exp. start label for mc cmd."
+2 MCWRK do:f2
+  MCREST
+# 23 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+# 28 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+"d6=(l0*l26+l6)*(1s/cnst31)-(p5/2)-1u"
+"d7=d6+1u-l16*(1s/cnst31)-d10"
+
+
+# 35 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+ 10u pl1:f1
+
+
+# 41 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+ d1
+
+
+# 46 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+ (p1 pl1 ph1):f1
+
+ 1u cpds2:f2
+
+ d6
+ (p5 pl1 ph2):f1
+# 53 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+ d7
+
+
+# 57 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+ go=2 ph31
+
+  1u do:f2
+
+# 1 "mc_line 61 file /root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff exp. mc cmd. in line"
+  MCWRK  wr #0
+# 62 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+# 63 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+   1m do:f2
+
+exit
+
+ph20= 0 1
+ph1= 0 0 0 0  2 2 2 2  1 1 1 1   3 3 3 3 
+ph2= 0 1 2 3  
+ph31=0 2 0 2  2 0 2 0  3 1 3 1  1 3 1 3
+# 77 "/root/.topspin-BladeEpu/local_acqu/ppDirs/echomas_750.ff"
+;pl1 : f1 channel - power level for pulse (default)
+;p1 : f1 channel -  high power pulse
+;d1 : relaxation delay; 1-5 * T1

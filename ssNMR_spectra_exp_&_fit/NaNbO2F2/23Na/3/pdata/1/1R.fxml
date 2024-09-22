@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NMRFit>
+<FitParameters>
+	<timestamp>2023-08-26T12:17:18Z</timestamp>
+	<DMFitVersion>20230120</DMFitVersion>
+	<FitMode>0</FitMode>
+	<FitModeAsc>Fit 1D</FitModeAsc>
+	<Sdev>58641.85735</Sdev>
+	<ComputeParam>
+		<ShapeSize>4096</ShapeSize>
+		<npasab>64</npasab>
+		<ssbMax>10</ssbMax>
+		<QuadStep>5</QuadStep>
+		<EtaStep>5</EtaStep>
+		<CptThreshold>99</CptThreshold>
+		<CSAStep>15</CSAStep>
+		<MinCSAStep>50</MinCSAStep>
+		<GaussMult>0.75</GaussMult>
+		<SWMult>4</SWMult>
+	</ComputeParam>
+	<Dimension>F2
+		<nucleus>23Na</nucleus>
+		<frequency>224.9177934</frequency>
+		<spinrate>29993.2341</spinrate>
+		<line>
+			<ModelName>int2QUAD</ModelName>
+			<amp>19732000</amp>
+			<pos  Unit="ppm" Error="0.00617">-9.831650152</pos>
+			<gl Fit="*">0.4599265752</gl>
+			<tr>3</tr>
+			<em_au Fit="*" >215.67</em_au>
+			<lb  Unit="ppm">0.9588836737</lb>
+			<dCS Fit="*"  Unit="ppm" Error="5.96218">8.869129187</dCS>
+			<etaCS>0.3</etaCS>
+			<CQ  Error="1.73755">1602.920701</CQ>
+			<etaQ  Error="0.00926">0.7067906058</etaQ>
+		</line>
+	</Dimension>
+</FitParameters>
+<GraphParameters>
+	<Dimensions>
+		<X>
+			<min>5211.646243</min>
+			<max>-10324.49431</max>
+		</X>
+		<Amp>
+			<min>-192899.1623</min>
+			<max>9100076.576</max>
+		</Amp>
+	</Dimensions>
+</GraphParameters>
+<DataFile>
+	<FileName>bl2.1r</FileName>
+	<FileTitle>23Na with STMAS</FileTitle>
+</DataFile>
+</NMRFit>

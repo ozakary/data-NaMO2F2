@@ -1,0 +1,79 @@
+"acqt0=0"
+"l0=0"
+"p5=2*p1"
+
+#ifdef dec
+"d6=(l0*l26+l6)*(1s/cnst31)-(p5/2)-1u"
+"d7=d6+1u-l16*(1s/cnst31)-d10"
+#else
+"d6=(l0*l26+l6)*(1s/cnst31)-(p5/2)"
+"d7=d6-l16*(1s/cnst31)-d10"
+#endif
+
+
+
+
+;#define saturation ; to be put in zgoptns "-Dsaturation"
+;#define twoD  ; to be put in zgoptns "-DtwoD"
+;#define full
+
+1 ze
+#ifdef dec
+2 1m do:f2
+#else
+2 1m
+#endif
+
+#ifdef dec
+"d6=(l0*l26+l6)*(1s/cnst31)-(p5/2)-1u"
+"d7=d6+1u-l16*(1s/cnst31)-d10"
+#else
+"d6=(l0*l26+l6)*(1s/cnst31)-(p5/2)"
+"d7=d6-l16*(1s/cnst31)-d10"
+#endif
+
+ 10u pl1:f1
+#ifdef saturation
+3 d20
+  (p20 ph20^ pl20):f1
+ lo to 3 times l20
+#endif    
+ d1
+#ifdef dfs
+   (p2:sp1 ph10):f1
+   300u
+#endif
+ (p1 pl1 ph1):f1
+#ifdef dec
+ 1u cpds2:f2
+#endif
+ d6
+ (p5 pl1 ph2):f1
+#ifdef full
+ d7
+#else
+ d6
+#endif
+ go=2 ph31
+#ifdef dec
+  1u do:f2
+#endif
+1m mc #0 to 2 F1QF(iu0) 
+#ifdef dec
+   1m do:f2
+#endif
+exit
+
+ph20= 0 1
+ph1= 0 0 0 0  2 2 2 2  1 1 1 1   3 3 3 3 
+ph2= 0 1 2 3  
+ph31=0 2 0 2  2 0 2 0  3 1 3 1  1 3 1 3
+
+
+#ifdef dfs
+ph10=0
+#endif
+
+;pl1 : f1 channel - power level for pulse (default)
+;p1 : f1 channel -  high power pulse
+;d1 : relaxation delay; 1-5 * T1
