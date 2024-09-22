@@ -1,0 +1,54 @@
+# Tue Jul 13 12:25:45 2021
+#$$PROBEID=1
+#$$PROBEINFO=1.3 mm MAS BB/1H/19F/19F H11313-20/0001
+#$$PICSINFO=H11313-20_0001_01.par
+#$$SHIMID=312532
+#
+# Active Shim Gradients
+#
+Z           		-11574          
+Z2          		150             
+Z3          		0               
+Z4          		0               
+Z5          		0               
+X           		0               
+XZ          		0               
+XZ2         		0               
+Y           		-6200           
+YZ          		55400           
+YZ2         		-20000          
+XY          		0               
+XYZ         		0               
+(X2-Y2)     		0               
+(X2-Y2)Z    		0               
+X3          		0               
+Y3          		0               
+#
+# Lock Parameter
+#
+FIELD		0.000   
+#
+IEEE64_VERSION_CODE 1
+#
+# Shim currents 
+#
+SHIM_SETTING [1 ]  -5613.39000000  
+SHIM_SETTING [2 ]  74.25000000     
+SHIM_SETTING [3 ]  0.00000000      
+SHIM_SETTING [4 ]  0.00000000      
+SHIM_SETTING [5 ]  0.00000000      
+SHIM_SETTING [6 ]  -0.00000000     
+SHIM_SETTING [7 ]  0.00000000      
+SHIM_SETTING [8 ]  0.00000000      
+SHIM_SETTING [9 ]  -0.00000000     
+SHIM_SETTING [10]  0.00000000      
+SHIM_SETTING [11]  -3261.20000000  
+SHIM_SETTING [12]  29140.40000000  
+SHIM_SETTING [13]  -10520.00000000 
+SHIM_SETTING [14]  0.00000000      
+SHIM_SETTING [15]  0.00000000      
+SHIM_SETTING [16]  0.00000000      
+SHIM_SETTING [17]  0.00000000      
+SHIM_SETTING [18]  0.00000000      
+SHIM_SETTING [19]  0.00000000      
+SHIM_SETTING [20]  0.00000000      

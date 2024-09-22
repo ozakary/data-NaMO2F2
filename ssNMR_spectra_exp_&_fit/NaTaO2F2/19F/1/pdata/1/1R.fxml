@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NMRFit>
+<FitParameters>
+	<timestamp>2023-08-13T16:16:03Z</timestamp>
+	<DMFitVersion>20230120</DMFitVersion>
+	<FitMode>0</FitMode>
+	<FitModeAsc>Fit 1D</FitModeAsc>
+	<Sdev>0.2080541155</Sdev>
+	<ComputeParam>
+		<ShapeSize>4096</ShapeSize>
+		<npasab>64</npasab>
+		<ssbMax>10</ssbMax>
+		<QuadStep>5</QuadStep>
+		<EtaStep>5</EtaStep>
+		<CptThreshold>99</CptThreshold>
+		<CSAStep>15</CSAStep>
+		<MinCSAStep>50</MinCSAStep>
+		<GaussMult>0.75</GaussMult>
+		<SWMult>4</SWMult>
+	</ComputeParam>
+	<Dimension>F2
+		<nucleus>19F</nucleus>
+		<frequency>282.4415174</frequency>
+		<BaseLine>
+			<BLmode>Polynomial</BLmode>
+			<Baseline0>-0.5029427495</Baseline0>
+			<Baseline1>1.25466424e-06</Baseline1>
+			<Baseline2>0</Baseline2>
+			<Baseline3>0</Baseline3>
+		</BaseLine>
+		<spinrate Fit="*"  Error="5.44925">64019.17102</spinrate>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>86.32973109</amp>
+			<pos  Unit="ppm">-81.50425281</pos>
+			<wid  Unit="ppm">6.416956205</wid>
+			<gl>0.5322952173</gl>
+			<dCS Fit="*"  Unit="ppm">-106.2014833</dCS>
+		</line>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>87.92174985</amp>
+			<pos  Unit="ppm">-102.8200491</pos>
+			<wid  Unit="ppm">11.14207643</wid>
+			<gl>0.9005621811</gl>
+			<dCS Fit="*"  Unit="ppm">-120.3607363</dCS>
+		</line>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>1.150751311</amp>
+			<pos  Unit="ppm">5.743522758</pos>
+			<wid  Unit="ppm">11.85711712</wid>
+			<gl>0</gl>
+		</line>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>1.278902502</amp>
+			<pos  Unit="ppm">-27.63035131</pos>
+			<wid  Unit="ppm">29.75686933</wid>
+			<gl>1</gl>
+		</line>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>3.025267176</amp>
+			<pos  Unit="ppm">-33.54763477</pos>
+			<wid  Unit="ppm">3.105865177</wid>
+			<gl>0.2677198114</gl>
+		</line>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>3.131705314</amp>
+			<pos  Unit="ppm">-151.6991627</pos>
+			<wid  Unit="ppm">1.929127088</wid>
+			<gl>1</gl>
+		</line>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>35.9532748</amp>
+			<pos  Unit="ppm">-81.08259998</pos>
+			<wid  Unit="ppm">13.70774656</wid>
+			<gl>1</gl>
+			<dCS Fit="*"  Unit="ppm">-154.9235551</dCS>
+		</line>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>1.364918497</amp>
+			<pos  Unit="ppm">-57.02633492</pos>
+			<wid  Unit="ppm">19.88413591</wid>
+			<gl>1</gl>
+		</line>
+		<line>
+			<ModelName>CSA mas</ModelName>
+			<amp>15.48682193</amp>
+			<pos  Unit="ppm">-102.7593441</pos>
+			<wid  Unit="ppm">4.65297356</wid>
+			<gl>1</gl>
+			<dCS Fit="*"  Unit="ppm" Error="2126.22211">-73.56431226</dCS>
+		</line>
+	</Dimension>
+</FitParameters>
+<GraphParameters>
+	<Dimensions>
+		<X>
+			<min>50839.47312</min>
+			<max>-107327.7766</max>
+			<tic>14122.07587</tic>
+		</X>
+		<Amp>
+			<min>-6.988676512</min>
+			<max>128.1147751</max>
+		</Amp>
+	</Dimensions>
+</GraphParameters>
+<DataFile>
+	<FileName>1r</FileName>
+	<FileTitle>Probe: 1.3 mm MAS 1H/BB H8527/0008</FileTitle>
+</DataFile>
+</NMRFit>

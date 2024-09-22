@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<NMRFit>
+<FitParameters>
+	<timestamp>2023-08-28T13:19:05Z</timestamp>
+	<DMFitVersion>20230120</DMFitVersion>
+	<FitMode>0</FitMode>
+	<FitModeAsc>Fit 1D</FitModeAsc>
+	<Sdev>271150.5931</Sdev>
+	<ComputeParam>
+		<ShapeSize>65536</ShapeSize>
+		<npasab>64</npasab>
+		<ssbMax>10</ssbMax>
+		<QuadStep>15</QuadStep>
+		<EtaStep>11</EtaStep>
+		<CptThreshold>99</CptThreshold>
+		<CSAStep>21</CSAStep>
+		<MinCSAStep>25</MinCSAStep>
+		<GaussMult>0.75</GaussMult>
+		<SWMult>4</SWMult>
+	</ComputeParam>
+	<Dimension>F2
+		<nucleus>23Na</nucleus>
+		<frequency>224.9177934</frequency>
+		<spinrate>30000</spinrate>
+		<line>
+			<ModelName>int2QUAD</ModelName>
+			<amp Fit="*" >13019503.1</amp>
+			<pos Fit="*"  Unit="ppm">-10.74937309</pos>
+			<gl>0</gl>
+			<tr>1</tr>
+			<em_au>-200</em_au>
+			<lb  Unit="ppm">-0.8892137745</lb>
+			<CQ Fit="*" >1706.34</CQ>
+			<etaQ Fit="*" >0.6</etaQ>
+		</line>
+		<line>
+			<ModelName>int2QUAD</ModelName>
+			<amp Fit="*" >340000</amp>
+			<pos Fit="*"  Unit="ppm">-10.75</pos>
+			<gl>0</gl>
+			<tr>-3</tr>
+			<em_au>-1000</em_au>
+			<lb  Unit="ppm">-4.446068872</lb>
+			<CQ Fit="*" >1706.34</CQ>
+			<etaQ Fit="*" >0.6</etaQ>
+		</line>
+	</Dimension>
+</FitParameters>
+<GraphParameters>
+	<Dimensions>
+		<X>
+			<min>352945.7702</min>
+			<max>-358131.0857</max>
+		</X>
+		<Amp>
+			<min>-30136.34209</min>
+			<max>1173214.316</max>
+		</Amp>
+	</Dimensions>
+</GraphParameters>
+<DataFile>
+	<FileName>NaTaO2F2_23Na_hpdec_1_1_1r_bc.csdf</FileName>
+	<FileTitle>23Na with STMAS o</FileTitle>
+</DataFile>
+</NMRFit>

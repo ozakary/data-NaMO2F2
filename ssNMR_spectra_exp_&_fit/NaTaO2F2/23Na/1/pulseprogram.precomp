@@ -1,0 +1,124 @@
+# 1 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec"
+;hpdec
+;avance-version (16/04/05)
+;
+;checked by sewe 26.08.2011
+;modified by sewe 05.04.2016
+;
+;acquisition on X with hp proton decoupling
+;suitable for various types of decoupling
+;
+;
+;Avance III version
+;parameters:
+;pl1 : X power level for excitation pulse
+;pl2 : =0W, not used
+;pl12 : power level for standard proton decoupling e.g. spinal64
+;pl13 : special decoupling power e.g. spinal64_13
+;p1 : X 90 degree pulse
+;p5 : LG 360 degree pulse
+;p10 : pulse length for phase modulated pulses (e.g PMLG, DUMBO)
+;p22 : H 180 at power level pl13 (pidec)
+;p29 : 5 - 10 us, to avoid exact rotor synchronisation
+;pcpd2 : pulse length in decoupling sequence (often 180deg-0.2us)
+;d1 : recycle delay
+;d30 : =1s/cnst31-p4, for pidec12 and pidec13, pi-pulse decoupling
+;d31 : =1s/cnst31, 1 rotor period
+;spnam1	: lgs-1, lgs-4 or pmlg-36,
+;l31 : number of rotor cycles for XiX (=3)
+;cnst20 : proton RF field to calculate LG parameters
+;cnst21 : =0, proton offset
+;cnst22 : +ve Lee-Goldburg offset
+;cnst23 : -ve Lee-Goldburg offset
+;cnst24 : additional Lee-Goldburg offset
+;cnst31 : spinning frequency
+;cpdprg2 : sequence used for decoupling (e.g. spinal64)
+;zgoptns : -Dlg, -Dlacq, -Dlcp15
+;
+;
+;$CLASS=Solids
+;$DIM=1D
+;$TYPE=direct excitation
+;$SUBTYPE=simple 1D
+;$COMMENT=acquisition on X with proton decoupling, various decoupling schemes
+
+prosol relations=<solids_default>
+
+# 51 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec"
+"acqt0=-p1/2"
+
+# 53 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec"
+1 ze
+
+# 1 "/root/.topspin-BladeEpu/local_acqu/ppDirs/p15_prot.incl" 1
+;p15_prot.incl
+;avance-version (13/01/29)
+;Test the rf on-time and duty cycle
+;protect against too long contact time
+;Test the rf on-time and duty cycle 
+;
+;$CLASS=Solids INCL
+;$COMMENT=protect against too long contact time
+
+
+1m
+if "p15 < 10.1m" goto Passp15
+2u
+print "contact time exceeds 10msec limit!"
+goto HaltAcqu
+Passp15, 1m
+# 20 "/root/.topspin-BladeEpu/local_acqu/ppDirs/p15_prot.incl"
+;$Id:$
+# 56 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec" 2
+			;make sure p15 does not exceed 10 msec 
+			;let supervisor change this pulseprogram if 
+			;more is needed
+
+
+			;disable protection file for long acquisition change 
+			;   decoupling power !!! or you risk probe damage
+			;if you set the label lacq (ZGOPTNS -Dlacq), 
+			;   the protection is disabled
+# 1 "/root/.topspin-BladeEpu/local_acqu/ppDirs/aq_prot.incl" 1
+;aq_prot.incl
+;avance-version (13/01/28)
+;Test the rf on-time and duty cycle
+;protect against too long acquisition time
+
+;$CLASS=Solids INCL
+;$COMMENT=protect against too long acquisition time
+
+1m
+if "aq < 50.1m" goto Passaq
+2u 
+print "acquisition time exceeds 50m limit!"
+goto HaltAcqu
+Passaq, 1m
+# 16 "/root/.topspin-BladeEpu/local_acqu/ppDirs/aq_prot.incl"
+;$Id:$
+# 67 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec" 2
+			;allows max. 50 msec acquisition time, supervisor
+			;may change  to max. 1s at less than 5 % duty cycle
+			;and reduced decoupling field
+
+
+# 73 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec"
+2 d1 do:f2
+
+
+# 77 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec"
+  (p1 pl1 ph1):f1 (1u cpds2):f2
+
+  go=2 ph31
+  1m do:f2
+  wr #0
+HaltAcqu, 1m
+exit
+
+ph1= 0 2 1 3
+ph31=0 2 1 3
+# 90 "/root/.topspin-BladeEpu/local_acqu/ppDirs/hpdec"
+;$Id:$
