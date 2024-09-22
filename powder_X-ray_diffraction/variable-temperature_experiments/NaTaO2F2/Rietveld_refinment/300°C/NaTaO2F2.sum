@@ -1,0 +1,133 @@
+
+
+        **********************************************************
+        ** PROGRAM FullProf.2k (Version 7.30 - Mar2020-ILL JRC) **
+        **********************************************************
+                       M U L T I -- P A T T E R N                 
+            Rietveld, Profile Matching & Integrated Intensity     
+                 Refinement of X-ray and/or Neutron Data
+
+
+    Date: 08/02/2023  Time: 11:33:17.794                              
+
+ => PCR file code: NaTaO2F2
+ => DAT file code: NaTaO2F2.dat         -> Relative contribution: 1.0000                                                            
+ => Title:  #(C) 2021 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+
+ ==> CONDITIONS OF THIS RUN FOR PATTERN No.:  1
+
+ => Global Refinement of X-ray powder diffraction data                                                                              
+ => Global Refinement of X-ray powder diffraction data                                                                              
+    Bragg-Brentano(X-rays) or Debye-Scherrer geometry(Neutrons)
+ => The    5th default profile function was selected
+
+ => X-Y type of data: 2theta/TOF/E(Kev) Intens sigma for pattern:  1
+ => Wavelengths:  1.54056 1.54439
+ => Cos(Monochromator angle)=   0.9100
+ => Absorption correction (AC), muR-eff =   0.0000  0.0000
+ => Base of peaks: 2.0*HW*    8.00
+ ==> Angular range, step and number of points:
+     2Thmin:      10.090400  2Thmax:      99.993401  Step:       0.013132  No. of points:   6848
+ =>-------> Pattern#  1
+ => Crystal Structure Refinement for phase: 1
+ => The density (volumic mass) of phase 1 is:    5.529 g/cm3
+ => Scor: 3.2783
+
+ ==> RESULTS OF REFINEMENT:
+
+
+ => No. of fitted parameters:   31
+
+
+------------------------------------------------------------------------------
+ => Phase No.  1  #(C) 2021 by FIZ Karlsruhe - Leibniz InP 1 21/c 1          
+------------------------------------------------------------------------------
+
+ =>  No. of reflections for pattern#:   1:   716/2
+
+
+ ==> ATOM PARAMETERS:
+
+  Name      x     sx       y     sy       z      sz      B   sB   occ. socc.  Mult
+ Na1     0.38128(  58)  0.79086( 127)  0.10283(  72)  1.116(  0)  1.000(  0)    4
+ Ta1     0.15929(   9)  0.25627(  41)  0.29549(  11)  0.472(  0)  1.000(  0)    4
+ O1      0.21792(  97)  0.15840( 125)  0.04744( 138)  0.581(  0)  1.000(  0)    4
+ O2      0.04878( 127)  0.53978( 184)  0.21623( 160)  0.581(  0)  1.000(  0)    4
+ F1      0.38527( 118)  0.46854( 161)  0.31188( 151)  1.121(  0)  1.000(  0)    4
+ F2      0.34063( 104)  0.98540( 150)  0.37071( 136)  1.121(  0)  1.000(  0)    4
+
+ ==> PROFILE PARAMETERS FOR PATTERN#  1
+
+ => Cell parameters      :
+                              8.15054   0.00008
+                              5.49072   0.00006
+                              7.53229   0.00008
+                             90.00000   0.00000
+                            102.50970   0.00064
+                             90.00000   0.00000
+ 
+ => overall scale factor :      0.001991078     0.000003363
+ => Eta(p-v) or m(p-vii) :    0.35577   0.01089
+ => Overall tem. factor  :    0.00000   0.00000
+ => Halfwidth parameters :    0.06599   0.00162
+                             -0.03980   0.00114
+                              0.01292   0.00020
+ => Preferred orientation:    0.00000   0.00000
+                              0.00000   0.00000
+ => Asymmetry parameters :    0.04694   0.00258
+                              0.00477   0.00068
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => X and y parameters   :    0.00260   0.00032
+                              0.00000   0.00000
+ => Strain parameters    :    0.00000   0.00000
+                              0.00000   0.00000
+                              0.00000   0.00000
+ => Size parameters (G,L):    0.00000   0.00000
+                              0.00000   0.00000
+
+ ==> GLOBAL PARAMETERS FOR PATTERN#  1
+
+
+ => Zero-point:     0.0041    0.0005
+ => Cos( theta)-shift parameter :   0.0000  0.0000
+ => Sin(2theta)-shift parameter :   0.0000  0.0000
+
+ ==> RELIABILITY FACTORS WITH ALL NON-EXCLUDED POINTS FOR PATTERN:  1
+
+  => Cycle:  1 => MaxCycle: 33
+ => N-P+C:  6817
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  3.60     Rwp:  4.98     Rexp:    1.50 Chi2:  11.1      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  10.8     Rwp:  10.6     Rexp:    3.19 Chi2:  11.1    
+ => Deviance:  0.775E+05     Dev*  :   11.36    
+ => DW-Stat.:    0.3415     DW-exp:     1.9341
+ => N-sigma of the GoF:      587.000
+
+ ==> RELIABILITY FACTORS FOR POINTS WITH BRAGG CONTRIBUTIONS FOR PATTERN:  1
+
+ => N-P+C:  5939
+ =>  R-factors (not corrected for background) for Pattern:  1
+ => Rp:  3.85     Rwp:  5.24     Rexp:    1.49 Chi2:  12.3      L.S. refinement
+ => Conventional Rietveld R-factors for Pattern:  1
+ => Rp:  10.1     Rwp:  10.5     Rexp:    2.98 Chi2:  12.3    
+ => Deviance:  0.754E+05     Dev*  :   12.70    
+ => DW-Stat.:    0.3509     DW-exp:     1.9301
+ => N-sigma of the GoF:      618.409
+
+ => Global user-weigthed Chi2 (Bragg contrib.):   12.7    
+
+     -----------------------------------------------------
+     BRAGG R-Factors and weight fractions for Pattern #  1
+     -----------------------------------------------------
+
+ => Phase:  1      #(C) 2021 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+ => Bragg R-factor:   6.14       Vol:  329.085( 0.006)  Fract(%):  100.00( 0.24)
+ => Rf-factor=  4.87             ATZ:        1095.733   Brindley:  1.0000
+
+ 
+              CPU Time:     1.047 seconds
+                            0.017 minutes
+
+ => Run finished at:     Date: 08/02/2023  Time: 11:33:18.869                              
