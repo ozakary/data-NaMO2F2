@@ -3,7 +3,7 @@
 **Author:** Ouail Zakary  
 **ORCID:** [0000-0002-7793-3306](https://orcid.org/0000-0002-7793-3306)  
 **E-mail:** [Ouail.Zakary@oulu.fi](mailto:Ouail.Zakary@oulu.fi)  
-**Website:** [Ouail_Zakary.html](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
+**Website:** [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
 
 This repository contains datasets of **Powder X-Ray Diffraction (PXRD)** data for the compounds NaNbO<sub>2</sub>F<sub>2</sub> and NaTaO<sub>2</sub>F<sub>2</sub>, recorded under both room temperature (RT) and variable temperature conditions.
 
@@ -79,7 +79,9 @@ To successfully conduct the PXRD experiments and perform the Rietveld refinement
   - An **HTK 900 Anton Paar furnace attachment** for temperature-controlled experiments.
 
 - **Software:**  
-  - **FullProf** for Rietveld refinements.
-  - **VESTA** and **Diamond** for 3D visualization of crystal structures and for computing structural features such as bond lengths, distances, angles, volume of the unit cell, quadratic elongation, and distortion index.
+  - **FullProf** for Rietveld refinements. You can download this software from the [FullProf Suite](https://www.ill.eu/sites/fullprof/php/downloads.html).
+  - **VESTA** (download: [VESTA](https://jp-minerals.org/vesta/en/download.html)) and **Diamond** (download: [Diamond](https://www.crystalimpact.com/diamond/download.htm)) for 3D visualization of crystal structures and for computing structural features such as bond lengths, distances, angles, volume of the unit cell, quadratic elongation, and distortion index.
+
+---
 
 For further details, please refer to the respective folders or contact the author via the provided email.
