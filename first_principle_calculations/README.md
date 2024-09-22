@@ -87,9 +87,10 @@ The following directories contain the datasets:
 
 ## Requirements
 
-To run the calculations in this folder, you will need:
+The calculations in this folder were performed on the **IMMM cluster** using the **charger (node with 48 CPUs and 192Go memory)**. To run the calculations in this folder, you will need:
 
 - **VASP** installed on your local machine or accessible on a supercomputer cluster.
 - A compatible **CPU** (e.g., Intel or AMD) with sufficient computational resources for running DFT calculations.
+- The job batch script is configured for the SLURM workload manager and includes specifications for nodes, tasks, runtime, memory, and other settings. Modify the script to suit your specific calculation needs.
 
 For further details, please refer to the respective folders or contact the author via the provided email.
