@@ -33,7 +33,13 @@ The `.slurm` files (named `<name>_jv_oz.slurm`, where `name` corresponds to each
 
 ### Geometry Optimization (APO and FO) using `VASP`
 
-All first-principles calculations were performed using the **VASP** code (version 6.2.1). The **density functional theory (DFT)** approach used a wave function expanded on a plane-wave basis set, with a **550 eV** kinetic energy cut-off and a **(4 × 6 × 4)** shifted Monkhorst-Pack k-point mesh. The **Perdew–Burke–Ernzerhof (GGA-PBE)** functional was employed to obtain the ground state electronic structure. The interactions between core and valence electrons were treated using the **projector augmented wave (PAW)** method, incorporating core configurations for O, F, Na, Nb, and Ta.
+All first-principles calculations were performed using the **VASP** code (version 6.2.1). The **density functional theory (DFT)** approach utilized a wave function expanded on a plane-wave basis set, with a **550 eV** kinetic energy cut-off and a **(4 × 6 × 4)** shifted Monkhorst-Pack k-point mesh. The **Perdew–Burke–Ernzerhof (GGA-PBE)** functional was employed to obtain the ground state electronic structure. The interactions between core and valence electrons were treated using the **projector augmented wave (PAW)** method, incorporating the following PAW potentials and core electronic configurations:
+
+- **O:** O_s_GW, core configuration: [He] 2s<sup>2</sup> 2p<sup>4</sup>
+- **F:** F_GW, core configuration: [He] 2s<sup>2</sup> 2p<sup>5</sup>
+- **Na:** Na_sv_GW, core configuration: [Ne] 3s<sup>1</sup>
+- **Nb:** Nb_sv_GW, core configuration: [Kr] 4s<sup>2</sup> 4p<sup>6</sup> 4d<sup>4</sup> (5 electrons in the valence shell)
+- **Ta:** Ta_sv_GW, core configuration: [Xe] 5s<sup>2</sup> 5p<sup>6</sup> 5d<sup>4</sup> (5 electrons in the valence shell)
 
 Atomic positions were relaxed until forces converged to less than **0.1 meV/Å**, and total energy convergence was set to below **10<sup>–8</sup> eV**.
 
