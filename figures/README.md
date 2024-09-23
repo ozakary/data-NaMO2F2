@@ -1,6 +1,10 @@
 # Figures, Scripts, and Datasets for Manuscript and Supporting Information
+**Author:** Ouail Zakary  
+**ORCID:** [0000-0002-7793-3306](https://orcid.org/0000-0002-7793-3306)  
+**E-mail:** [Ouail.Zakary@oulu.fi](mailto:Ouail.Zakary@oulu.fi)  
+**Website:** [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
 
-This repository contains the figures, Python scripts, datasets, and additional metadata (README and description files) used to generate the figures in the manuscript and supporting information documents of the associated research paper.
+This folder contains the figures, Python scripts, datasets, and additional metadata (README and description files) used to generate the figures in the manuscript and supporting information documents of **“Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides”**.
 
 ## Requirements
 
@@ -64,3 +68,7 @@ To reproduce the figures and analyze the data, you will need the following softw
 - Organizes figures into two categories: Manuscript and Supporting Information for clarity.
 
 Feel free to browse through the figures, and check the corresponding scripts and datasets. Ensure all dependencies are installed before attempting to run the scripts for reproducibility.
+
+---
+
+For further details, please refer to the respective folders or contact the author via the provided email.
