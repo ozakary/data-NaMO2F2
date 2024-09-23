@@ -1,5 +1,7 @@
 # Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides”
 
+## Graphical Abstract
+
 ![Graphical Abstract](./TOC_NaMO2F2.png)
 
 **Author:** Ouail Zakary  
