@@ -1,0 +1,1 @@
+# Each orbital-resolved DOS in Figures 4a and 4c can be generated from the data files "figure_4-a_data.agr" and "figure_4-c_data.agr" using appropriate band structure software. The drawings in Figures 4b and 4d were created using PowerPoint.

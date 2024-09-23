@@ -1,0 +1,1 @@
+# Each map (a and b) in Figure 7 were generated using Python, exported, arranged in PowerPoint, and then saved as a .png file. The datasets are located in the folders: ./figure_7-a_data/ and ./figure_7-b_data/

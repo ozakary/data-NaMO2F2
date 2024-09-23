@@ -1,0 +1,1 @@
+#Temperature dependence of the cell parameters a, b, c, β and V for NaNbO2F2 (left) and NaTaO2F2 (right) determined from Rietveld refinement of temperature-controlled PXRD data (Tables S9 and S10). TECs (αa, αb, αc and αβ, °C-1), which were calculated from linear regressions in the [25–220°C] temperature range (blue line), are given as well as the R2 values.

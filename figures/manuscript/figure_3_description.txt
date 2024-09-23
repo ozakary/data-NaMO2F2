@@ -1,0 +1,1 @@
+#Calculated DFT band structures from APO models along high symmetry lines and PDOS of NaNbO2F2 (upper panels) and NaTaO2F2 (lower panels). The position of the valence band maximum (VBM) and conduction band minimum (CBM) are respectively indicated as red and blue dashed lines. The arrows show the indirect band gaps from VBM to CBM.

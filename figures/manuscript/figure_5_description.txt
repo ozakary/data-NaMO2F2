@@ -1,0 +1,1 @@
+#Radar charts comparing experimental and calculated, from the ES (in red) and APO (in blue) models, NMR parameters of NaNbO2F2 (left) and NaTaO2F2 (right). 
