@@ -12,7 +12,7 @@ The dataset comprises the following sections:
 2. Thermogravimetric and differential thermal analyses data. ([directory](./TGA_DTA/))
 3. Solid-state nuclear magnetic resonance spectroscopy data. ([directory](./ssNMR_spectra_exp_&_fit/))
 4. First principle calculations data. ([directory](./first_principle_calculations/))
-5. Python scripts and raw numerical data for all figures included in the main manuscript and the Supporting Information. ([directory](./first_principle_calculations/))
+5. Python scripts and raw numerical data for all figures included in the main manuscript and the Supporting Information. ([directory](./figures/))
 
 ---
 
