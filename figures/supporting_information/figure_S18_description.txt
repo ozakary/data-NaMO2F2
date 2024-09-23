@@ -1,0 +1,1 @@
+#[MO4F2]5– octahedra bond lengths from NaNbO2F2 (left) and NaTaO2F2 (right) as a function of temperature. O2’ is equivalent to O2 by symmetry operations. Linear regressions (blue lines) are plotted in the [25–220°C] temperature range guiding the variation of each quantity. The amplitudes of significant variations are indicated and highlighted in blue.

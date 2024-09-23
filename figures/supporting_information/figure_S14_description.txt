@@ -1,0 +1,1 @@
+#Observed (red), calculated (black) and difference (blue) temperature-controlled diffraction patterns in the [200–250°C] temperature range of NaTaO2F2. The green vertical markers refer to the Bragg positions. The obtained refinement reliability factors are given in Table S10.

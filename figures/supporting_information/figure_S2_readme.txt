@@ -1,0 +1,1 @@
+# The diagram and its fit in Figure S2 were generated using the SigmaPlot software, dataset and plot located in the file "figure_S2_data_&_plot.JNB", exported, arranged in PowerPoint, and then saved as a .png file.

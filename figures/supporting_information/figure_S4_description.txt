@@ -1,0 +1,1 @@
+#(a) An overview of the experimental (blue) and fitted (dashed red) 23Na MAS (30 kHz) NMR spectra of NaTaO2F2. Enlargements of the (b) central transition (CT) and (c) satellite transitions (ST). The individual resonances used for the fit (Table S8) are shown below (green). 

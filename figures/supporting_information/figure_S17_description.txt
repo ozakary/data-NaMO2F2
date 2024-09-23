@@ -1,0 +1,1 @@
+#Na+ polyhedra bond lengths from NaNbO2F2 (left) and NaTaO2F2 (right) as a function of temperature. X, X’ and X’’ (X = F1 and F2) are atoms equivalent by symmetry operations. Linear regressions (blue lines) are plotted in the [25–220°C] temperature range guiding the variation of each quantity. The amplitudes of significant variations are indicated and highlighted in blue. 

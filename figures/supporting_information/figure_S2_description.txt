@@ -1,0 +1,1 @@
+#Observed (red), calculated (black) and difference (blue) diffraction patterns of NaTaO2F2. The green vertical markers refer to the Bragg positions. The obtained refinement reliability factors are Rp = 9.2%, Rwp = 9.2%, Rexp = 2%, RB = 5% and RF = 5.3%.

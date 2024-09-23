@@ -1,0 +1,1 @@
+# The plots in Figure S20 (b) were generated using Python, exported, arranged with figure S20 (a) in PowerPoint, and then saved as a .png file. The Figure S20 (a) was created a combination of VESTA and PowerPoint.

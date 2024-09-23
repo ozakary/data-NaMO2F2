@@ -1,0 +1,1 @@
+#Observed (red), calculated (black) and difference (blue) diffraction patterns of NaNbO2F2. The green vertical markers refer to the Bragg positions. The obtained refinement reliability factors are Rp = 10.8%, Rwp = 11.4%, Rexp = 2.3%, RB = 6.2% and RF = 5.2%.

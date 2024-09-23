@@ -1,0 +1,1 @@
+#19F σiso values for APO model of NaTaO2F2 (Table 8) and NaF (388.3 ppm) plotted against the corresponding experimental δiso values (Table 5, [31]) and corresponding linear-least-squares fits (dashed lines). The equation of the linear model is given.

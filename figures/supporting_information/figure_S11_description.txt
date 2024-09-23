@@ -1,0 +1,1 @@
+#Observed (red), calculated (black) and difference (blue) temperature-controlled diffraction patterns in the [260–300°C] temperature range of NaNbO2F2. The green vertical markers refer to the Bragg positions. The obtained refinement reliability factors are given in Table S9. 
