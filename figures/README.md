@@ -38,9 +38,9 @@ To reproduce the figures and analyze the data, you will need the following softw
 
 | **Figure** | **Script** | **Dataset** | **Readme** | **Description** |
 |------------|------------|-------------|------------|-----------------|
-| [Figure S1](./suportting_information/figure_S1.JPG) | N/A | [Data](./suportting_information/figure_S1_data_&_plot.JNB) | [Readme](./suportting_information/figure_S1_readme.txt) | [Description](./suportting_information/figure_S1_description.txt) |
-| [Figure S2](./suportting_information/figure_S2.JPG) | N/A | [Data](./suportting_information/figure_S2_data_&_plot.JNB) | [Readme](./suportting_information/figure_S2_readme.txt) | [Description](./suportting_information/figure_S2_description.txt) |
-| [Figure S3](./suportting_information/figure_S3.png) | N/A | N/A | [Readme](./suportting_information/figure_S3_readme.txt) | [Description](./suportting_information/figure_S3_description.txt) |
+| [Figure S1](./supporting_information/figure_S1.JPG) | N/A | [Data](./supporting_information/figure_S1_data_&_plot.JNB) | [Readme](./supporting_information/figure_S1_readme.txt) | [Description](./supporting_information/figure_S1_description.txt) |
+| [Figure S2](./supporting_information/figure_S2.JPG) | N/A | [Data](./supporting_information/figure_S2_data_&_plot.JNB) | [Readme](./supporting_information/figure_S2_readme.txt) | [Description](./supporting_information/figure_S2_description.txt) |
+| [Figure S3](./supporting_information/figure_S3.png) | N/A | N/A | [Readme](./supporting_information/figure_S3_readme.txt) | [Description](./supporting_information/figure_S3_description.txt) |
 | [Figure S4](./suportting_information/figure_S4.png) | N/A | N/A | [Readme](./suportting_information/figure_S4_readme.txt) | [Description](./suportting_information/figure_S4_description.txt) |
 | [Figure S5](./suportting_information/figure_S5.png) | [Script](./suportting_information/figure_S5_script.py) | [Data](./suportting_information/figure_S5_data.txt) | N/A | [Description](./suportting_information/figure_S5_description.txt) |
 | [Figure S6](./suportting_information/figure_S6.png) | [Script](./suportting_information/figure_S6_script.py) | [Data](./suportting_information/figure_S6_data.txt) | N/A | [Description](./suportting_information/figure_S6_description.txt) |
