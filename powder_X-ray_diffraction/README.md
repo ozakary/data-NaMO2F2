@@ -44,7 +44,7 @@ Both RT and temperature-controlled PXRD patterns were recorded using a **PANalyt
 - **Temperature-Controlled PXRD Patterns:**  
   - **Temperature Range:** RT to 300°C using a **HTK 900 Anton Paar furnace attachment**  
   - **Sample Holder:** Glass ceramic Macor  
-  - **Data Collection Intervals:** 20°C (25–220°C) and 10°C (220–300°C) with a heating rate of 5°C/min  
+  - **Data Collection Intervals:** 20°C (25–220°C) and 10°C (220–300°C) increments with a heating rate of 5°C/min  
   - **Temperature Stabilization:** 20 minutes before each measurement  
   - **2θ Range:** 10° to 100°  
   - **Step Size:** 0.0131°  
