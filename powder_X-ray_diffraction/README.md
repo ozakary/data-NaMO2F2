@@ -80,7 +80,7 @@ To successfully conduct the PXRD experiments and perform the Rietveld refinement
 
 - **Software:**  
   - **FullProf** for Rietveld refinements. You can download this software from the [FullProf Suite](https://www.ill.eu/sites/fullprof/php/downloads.html).
-  - **VESTA** (download: [VESTA](https://jp-minerals.org/vesta/en/download.html)) and **Diamond** (download: [Diamond](https://www.crystalimpact.com/diamond/download.htm)) for 3D visualization of crystal structures and for computing structural features such as bond lengths, distances, angles, volume of the unit cell, quadratic elongation, and distortion index.
+  - **VESTA** ([download](https://jp-minerals.org/vesta/en/download.html)) and **Diamond** ([download](https://www.crystalimpact.com/diamond/download.htm)) for 3D visualization of crystal structures and for computing structural features such as bond lengths, distances, angles, volume of the unit cell, quadratic elongation, and distortion index.
 
 ---
 
