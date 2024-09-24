@@ -43,16 +43,16 @@ The raw data was collected as `.003`, `.004`, and `.001` files for the thermogra
 
 ### Raw Data and Experiment Cycles:
 - **NaNbO<sub>2</sub>F<sub>2</sub>**
-  - 1st cycle: RT to 300°C  
-  - 2nd cycle: 100°C to 300°C
+  - 1st cycle: [RT to 300°C](./NaNbO2F2/1st_cycle_from_RT_to_300°C.003) 
+  - 2nd cycle: [100°C to 300°C](./NaNbO2F2/2nd_cycle_from_100°C_to_300°C.004)
 
 - **NaTaO<sub>2</sub>F<sub>2</sub>**
-  - 1st cycle: RT to 300°C  
-  - 2nd cycle: RT to 300°C  
-  - 3rd cycle: RT to 600°C
+  - 1st cycle: [RT to 300°C](./NaTaO2F2/1st_cycle_from_RT_to_300°C.004)
+  - 2nd cycle: [RT to 300°C](./NaTaO2F2/2nd_cycle_from_RT_to_300°C.006)  
+  - 3rd cycle: [RT to 600°C](./NaTaO2F2/3rd_cycle_from_RT_to_600°C.001)
 
 ### Requirements
-To analyze and visualize the TGA/DTA data, you will need the following:
+To acquire, analyze, and visualize the TGA/DTA data, you will need the following:
 
 - **Equipment Requirements:**
   - **TGA/DTA Q600 SDT TA Instruments** apparatus (or equivalent for similar experiments).
