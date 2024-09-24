@@ -26,7 +26,7 @@ The dataset includes both **inputs** (located in the folders: `INPUT_files`) and
 5. **NMR Parameters Calculations of FO:**  
    **Folder:** `./NaNbO2F2/FO_NMR` and `./NaTaO2F2/FO_NMR`
 
-The `.slurm` files (named `<name>_jv_oz.slurm`, where `name` corresponds to each calculation) and the `.log` files (named `<name>_vasp_run.log`) can be found in their respective folders.
+The `.slurm` files (named `<name>_jv_oz.slurm`, where `name` corresponds to each calculation) and the `.log` files (named `<name>_vasp_run.log`) can be found in the folders [NaNbO<sub>2</sub>F<sub>2</sub>](./NaNbO2F2) and [NaTaO<sub>2</sub>F<sub>2</sub>](./NaTaO2F2).
 
 ## Methods
 
