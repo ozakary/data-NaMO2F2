@@ -36,7 +36,7 @@ The dataset is divided into two main folders for **NaNbO<sub>2</sub>F<sub>2</sub
 Thermogravimetric analysis (TGA) and differential thermal analysis (DTA) were conducted on ~56 mg samples of NaNbO<sub>2</sub>F<sub>2</sub> and NaTaO<sub>2</sub>F<sub>2</sub> powders using a **TGA/DTA Q600 SDT TA Instruments** apparatus. Experiments were carried out under an argon atmosphere at a flow rate of 100 mL.min<sup>-1</sup>, using platinum crucibles and α-Al<sub>2</sub>O<sub>3</sub> as the reference material.
 
 - **Heating Process:**  
-  The samples were heated from **room temperature (RT)** to 300°C/600°C, with heating and cooling rates set to 10°C.min<sup>-1</sup>.
+  The samples were heated from **room temperature (RT)** to 300°C and 600°C, with heating and cooling rates set to 10°C.min<sup>-1</sup>.
 
 ### Data Acquisition
 The raw data was collected as `.003`, `.004`, and `.001` files for the thermogravimetric measurements, accompanied by corresponding `.txt` files for each cycle, which contain the numerical data. The raw datasets can be visualized using **TA Universal Analysis** software.
