@@ -58,7 +58,7 @@ The raw ssNMR data was processed using **Bruker TopSpin** software and fitted us
   - <sup>23</sup>Na: [Raw Data and Fit](./NaTaO2F2/23Na)
 
 ### Requirements
-To analyze and visualize the ssNMR data, the following equipment and software are required:
+To acquire, analyze, and visualize the ssNMR data, the following equipment and software are required:
 
 - **Equipment Requirements:**
   - **Bruker Avance III** spectrometer (7 T and 20 T) or equivalent, along with **CP-MAS probe-heads**.
