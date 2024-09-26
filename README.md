@@ -19,7 +19,7 @@ The dataset comprises the following sections:
 4. First principle calculations data. ([directory](./first_principle_calculations/))
 5. Python scripts and raw numerical data for all figures included in the main manuscript and the Supporting Information. ([directory](./figures/))
 
-## Citation
+## Citations
 
 If you use this data, please cite the following: \
 \
