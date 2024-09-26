@@ -24,11 +24,11 @@ The dataset comprises the following sections:
 
 If you use this data, please cite the following: \
 \
-**Preprint:** Zakary, O.; Body, M.; Sarou-Kanian, V.; Arnaud, B.; Corbel, G.; Legein, C. Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides. *Mater. Res. Bull.* **2024**.
+**Preprint (!!NOT peer reviewed yet!!):** Zakary, O.; Body, M.; Sarou-Kanian, V.; Arnaud, B.; Corbel, G.; Legein, C. Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides. *Mater. Res. Bull.* **2024**.
 [![DOI](https://img.shields.io/badge/DOI-10.2139%2Fssrn.4968134-blue.svg)](https://dx.doi.org/10.2139/ssrn.4968134)
 
 \
-**Dataset:** Zakary, Ouail; Body, Monique; Sarou-Kanian, Vincent; Arnaud, Brice; Corbel, Gwenaël; Legein, Christophe (**2024**). Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides”. *figshare. Dataset.*
+**Dataset (!!NOT peer reviewed yet!!):** Zakary, Ouail; Body, Monique; Sarou-Kanian, Vincent; Arnaud, Brice; Corbel, Gwenaël; Legein, Christophe (**2024**). Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides”. *figshare. Dataset.*
 [![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.27105970.v1-blue.svg)](https://doi.org/10.6084/m9.figshare.27105970.v1)
 
 
