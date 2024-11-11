@@ -10,7 +10,7 @@
 **Website:** [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
 
 This is the Supporting Dataset for the manuscript “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides”.
-[![DOI](https://img.shields.io/badge/DOI-10.2139%2Fssrn.4968134-blue.svg)](https://dx.doi.org/10.2139/ssrn.4968134)
+[![DOI](https://img.shields.io/badge/DOI-10.2139%2Fssrn.4968134-blue.svg)](https://doi.org/10.1016/j.jallcom.2024.177457)
 
 The dataset comprises the following sections:
 
