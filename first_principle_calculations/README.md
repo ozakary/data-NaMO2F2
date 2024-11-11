@@ -1,10 +1,10 @@
-# NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Geometry Optimization and NMR Parameters Calculations
+# NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Geometry Optimization and NMR Parameters Calculations
 **Author**: Ouail Zakary \
 **ORCID**: [0000-0002-7793-3306](https://orcid.org/0000-0002-7793-3306) \
 **E-mail**: [Ouail.Zakary@oulu.fi](mailto:Ouail.Zakary@oulu.fi) \
 **Website**: [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
 
-This repository contains datasets from DFT calculations performed to optimize the local structures of NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) and to compute their NMR parameters.
+This repository contains datasets from DFT calculations performed to optimize the local structures of NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) and to compute their NMR parameters.
 
 ## Overview of the Data
 
