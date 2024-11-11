@@ -1,4 +1,4 @@
-# Powder X-Ray Diffraction Data for NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>)
+# Powder X-Ray Diffraction Data for NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta)
 
 **Author:** Ouail Zakary  
 **ORCID:** [0000-0002-7793-3306](https://orcid.org/0000-0002-7793-3306)  
