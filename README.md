@@ -1,4 +1,4 @@
-# Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides”
+# Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”
 
 ## Graphical Abstract
 
@@ -9,7 +9,7 @@
 **E-mail:** [Ouail.Zakary@oulu.fi](mailto:Ouail.Zakary@oulu.fi)  
 **Website:** [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
 
-This is the Supporting Dataset for the manuscript “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides”.
+This is the Supporting Dataset for the manuscript “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”.
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jallcom.2024.177457-blue.svg)](https://doi.org/10.1016/j.jallcom.2024.177457)
 
 The dataset comprises the following sections:
@@ -28,7 +28,7 @@ If you use this data, please cite the following: \
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jallcom.2024.177457-blue.svg)](https://doi.org/10.1016/j.jallcom.2024.177457)
 
 \
-**Dataset:** Zakary, Ouail; Body, Monique; Sarou-Kanian, Vincent; Arnaud, Brice; Corbel, Gwenaël; Legein, Christophe (**2024**). Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb<sup>5+</sup>, Ta<sup>5+</sup>) Oxyfluorides”. *figshare. Dataset.*
+**Dataset:** Zakary, Ouail; Body, Monique; Sarou-Kanian, Vincent; Arnaud, Brice; Corbel, Gwenaël; Legein, Christophe (**2024**). Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”. *figshare. Dataset.*
 [![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.27105970.v1-blue.svg)](https://doi.org/10.6084/m9.figshare.27105970.v1)
 
 
