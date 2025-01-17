@@ -29,7 +29,7 @@ If you use this data, please cite the following: \
 
 \
 **Dataset:** Zakary, Ouail; Body, Monique; Sarou-Kanian, Vincent; Arnaud, Brice; Corbel, Gwenaël; Legein, Christophe (**2024**). Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”. *figshare. Dataset.*
-[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.27105970.v1-blue.svg)](https://doi.org/10.6084/m9.figshare.27105970.v1)
+[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.27105970.v1-green.svg)](https://doi.org/10.6084/m9.figshare.27105970.v1)
 
 
 ---
