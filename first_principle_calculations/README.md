@@ -12,21 +12,21 @@ The dataset includes both **inputs** (located in the folders: `INPUT_files`) and
 
 1. **NMR Parameter Calculations for the Experimental Structure (ES):**  
    Based on X-ray powder diffraction patterns refined at room temperature using the Rietveld refinement method for NaNbO<sub>2</sub>F<sub>2</sub> and NaTaO<sub>2</sub>F<sub>2</sub>.  
-   **Folder:** `./RbNb2O5F/ES_NMR` and `./RbTa2O5F/ES_NMR`
+   **Folder:** `./NaNbO2F2/ES_NMR` and `./NaTaO2F2/ES_NMR`
 
 2. **Atomic Position Optimization (APO) of ES:**  
-   **Folder:** `./RbNb2O5F/APO` and `./RbTa2O5F/APO`
+   **Folder:** `./NaNbO2F2/APO` and `./NaTaO2F2/APO`
 
 3. **NMR Parameters Calculations of APO:**  
-   **Folder:** `./RbNb2O5F/APO_NMR` and `./RbTa2O5F/APO_NMR`
+   **Folder:** `./NaNbO2F2/APO_NMR` and `./NaTaO2F2/APO_NMR`
 
 4. **Full Optimization (FO) of ES:**  
-   **Folder:** `./RbNb2O5F/FO` and `./RbTa2O5F/FO`
+   **Folder:** `./NaNbO2F2/FO` and `./NaTaO2F2/FO`
 
 5. **NMR Parameters Calculations of FO:**  
-   **Folder:** `./RbNb2O5F/FO_NMR` and `./RbTa2O5F/FO_NMR`
+   **Folder:** `./NaNbO2F2/FO_NMR` and `./NaTaO2F2/FO_NMR`
 
-The `.slurm` files (named `<name>_jv_oz.slurm`, where `name` corresponds to each calculation) and the `.log` files (named `<name>_vasp_run.log`) can be found in the folders [NaNbO<sub>2</sub>F<sub>2</sub>](./RbNb2O5F) and [NaTaO<sub>2</sub>F<sub>2</sub>](./RbTa2O5F).
+The `.slurm` files (named `<name>_jv_oz.slurm`, where `name` corresponds to each calculation) and the `.log` files (named `<name>_vasp_run.log`) can be found in the folders [NaNbO<sub>2</sub>F<sub>2</sub>](./NaNbO2F2) and [NaTaO<sub>2</sub>F<sub>2</sub>](./NaTaO2F2).
 
 ## Methods
 
@@ -61,28 +61,28 @@ In this study, NMR chemical shift values (*δ*<sub>iso</sub>) for **<sup>23</sup
 The following directories contain the datasets:
 
 - **NaNbO<sub>2</sub>F<sub>2</sub> Datasets:**
-  - [APO INPUT files](./RbNb2O5F/APO/INPUT_files)
-  - [APO OUTPUT files](./RbNb2O5F/APO/OUTPUT_files)
-  - [APO_NMR INPUT files](./RbNb2O5F/APO_NMR/INPUT_files)
-  - [APO_NMR OUTPUT files](./RbNb2O5F/APO_NMR/OUTPUT_files)
-  - [ES_NMR INPUT files](./RbNb2O5F/ES_NMR/INPUT_files)
-  - [ES_NMR OUTPUT files](./RbNb2O5F/ES_NMR/OUTPUT_files)
-  - [FO INPUT files](./RbNb2O5F/FO/INPUT_files)
-  - [FO OUTPUT files](./RbNb2O5F/FO/OUTPUT_files)
-  - [FO_NMR INPUT files](./RbNb2O5F/FO_NMR/INPUT_files)
-  - [FO_NMR OUTPUT files](./RbNb2O5F/FO_NMR/OUTPUT_files)
+  - [APO INPUT files](./NaNbO2F2/APO/INPUT_files)
+  - [APO OUTPUT files](./NaNbO2F2/APO/OUTPUT_files)
+  - [APO_NMR INPUT files](./NaNbO2F2/APO_NMR/INPUT_files)
+  - [APO_NMR OUTPUT files](./NaNbO2F2/APO_NMR/OUTPUT_files)
+  - [ES_NMR INPUT files](./NaNbO2F2/ES_NMR/INPUT_files)
+  - [ES_NMR OUTPUT files](./NaNbO2F2/ES_NMR/OUTPUT_files)
+  - [FO INPUT files](./NaNbO2F2/FO/INPUT_files)
+  - [FO OUTPUT files](./NaNbO2F2/FO/OUTPUT_files)
+  - [FO_NMR INPUT files](./NaNbO2F2/FO_NMR/INPUT_files)
+  - [FO_NMR OUTPUT files](./NaNbO2F2/FO_NMR/OUTPUT_files)
 
 - **NaTaO<sub>2</sub>F<sub>2</sub> Datasets:**
-  - [APO INPUT files](./RbTa2O5F/APO/INPUT_files)
-  - [APO OUTPUT files](./RbTa2O5F/APO/OUTPUT_files)
-  - [APO_NMR INPUT files](./RbTa2O5F/APO_NMR/INPUT_files)
-  - [APO_NMR OUTPUT files](./RbTa2O5F/APO_NMR/OUTPUT_files)
-  - [ES_NMR INPUT files](./RbTa2O5F/ES_NMR/INPUT_files)
-  - [ES_NMR OUTPUT files](./RbTa2O5F/ES_NMR/OUTPUT_files)
-  - [FO INPUT files](./RbTa2O5F/FO/INPUT_files)
-  - [FO OUTPUT files](./RbTa2O5F/FO/OUTPUT_files)
-  - [FO_NMR INPUT files](./RbTa2O5F/FO_NMR/INPUT_files)
-  - [FO_NMR OUTPUT files](./RbTa2O5F/FO_NMR/OUTPUT_files)
+  - [APO INPUT files](./NaTaO2F2/APO/INPUT_files)
+  - [APO OUTPUT files](./NaTaO2F2/APO/OUTPUT_files)
+  - [APO_NMR INPUT files](./NaTaO2F2/APO_NMR/INPUT_files)
+  - [APO_NMR OUTPUT files](./NaTaO2F2/APO_NMR/OUTPUT_files)
+  - [ES_NMR INPUT files](./NaTaO2F2/ES_NMR/INPUT_files)
+  - [ES_NMR OUTPUT files](./NaTaO2F2/ES_NMR/OUTPUT_files)
+  - [FO INPUT files](./NaTaO2F2/FO/INPUT_files)
+  - [FO OUTPUT files](./NaTaO2F2/FO/OUTPUT_files)
+  - [FO_NMR INPUT files](./NaTaO2F2/FO_NMR/INPUT_files)
+  - [FO_NMR OUTPUT files](./NaTaO2F2/FO_NMR/OUTPUT_files)
 
 ## Requirements
 
