@@ -22,7 +22,7 @@ The dataset comprises the following sections:
 
 ## Citations
 
-If you use this data, please cite the following:
+If you use the code in this repository, please cite the following:
 
 ### Paper [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jallcom.2024.177457-blue.svg)](https://doi.org/10.1016/j.jallcom.2024.177457)
 
