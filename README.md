@@ -22,15 +22,34 @@ The dataset comprises the following sections:
 
 ## Citations
 
-If you use this data, please cite the following: \
-\
-**Paper:** Zakary, O.; Body, M.; Sarou-Kanian, V.; Arnaud, B.; Corbel, G.; Legein, C. Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides. *J. Alloys Compd.* **2024**.
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jallcom.2024.177457-blue.svg)](https://doi.org/10.1016/j.jallcom.2024.177457)
+If you use this data, please cite the following:
 
-\
-**Dataset:** Zakary, Ouail; Body, Monique; Sarou-Kanian, Vincent; Arnaud, Brice; Corbel, Gwenaël; Legein, Christophe (**2024**). Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”. *figshare. Dataset.*
-[![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.27105970.v1-orange.svg)](https://doi.org/10.6084/m9.figshare.27105970.v1)
+### Paper [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jallcom.2024.177457-blue.svg)](https://doi.org/10.1016/j.jallcom.2024.177457)
 
+```bibtex
+@article{zakary_jahn-teller_nanbo2f2_2024,
+  title={Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO$_2$F$_2$ (M = Nb, Ta) Oxyfluorides},
+  author={Zakary, Ouail and Body, Monique and Sarou-Kanian, Vincent and Arnaud, Brice and Corbel, Gwenaël and Legein, Christophe},
+  journal={Journal of Alloys and Compounds},
+  year={2024},
+  publisher={Elsevier},
+  doi={10.1016/j.jallcom.2024.177457},
+  url={https://doi.org/10.1016/j.jallcom.2024.177457}
+}
+```
+
+### Dataset [![DOI](https://img.shields.io/badge/DOI-10.6084%2Fm9.figshare.27105970.v1-red.svg)](https://doi.org/10.6084/m9.figshare.27105970.v1)
+
+```bibtex
+@dataset{zakary_jahn-teller_nanbo2f2_2024,
+  author = {Zakary, Ouail and Body, Monique and Sarou-Konian, Vincent and Arnaud, Brice and Corbel, Gwenaël and Legein, Christophe},
+  title = {Supporting Data for "Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO$_2$F$_2$ (M = Nb, Ta) Oxyfluorides"},
+  year = {2024},
+  publisher = {figshare},
+  doi = {10.6084/m9.figshare.27105970.v1},
+  url = {https://doi.org/10.6084/m9.figshare.27105970.v1}
+}
+```
 
 ---
 
