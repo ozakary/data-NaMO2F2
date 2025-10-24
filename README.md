@@ -1,4 +1,4 @@
-# Supporting Data for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”
+# Supporting Code for “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”
 
 ## Graphical Abstract
 
@@ -9,7 +9,7 @@
 **E-mail:** [Ouail.Zakary@oulu.fi](mailto:Ouail.Zakary@oulu.fi)  
 **Website:** [Ouail Zakary - webpage](https://cc.oulu.fi/~nmrwww/members/Ouail_Zakary.html)
 
-This is the Supporting Dataset for the manuscript “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”.
+This is the Supporting Code for the manuscript “Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO<sub>2</sub>F<sub>2</sub> (M = Nb, Ta) Oxyfluorides”.
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jallcom.2024.177457-blue.svg)](https://doi.org/10.1016/j.jallcom.2024.177457)
 
 The dataset comprises the following sections:
@@ -31,7 +31,9 @@ If you use the code in this repository, please cite the following:
   title={Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO$_2$F$_2$ (M = Nb, Ta) Oxyfluorides},
   author={Zakary, Ouail and Body, Monique and Sarou-Kanian, Vincent and Arnaud, Brice and Corbel, Gwenaël and Legein, Christophe},
   journal={Journal of Alloys and Compounds},
-  year={2024},
+  year={2025},
+  volume = {1010},
+  pages = {177457},
   publisher={Elsevier},
   doi={10.1016/j.jallcom.2024.177457},
   url={https://doi.org/10.1016/j.jallcom.2024.177457}
@@ -48,6 +50,19 @@ If you use the code in this repository, please cite the following:
   publisher = {figshare},
   doi = {10.6084/m9.figshare.27105970.v1},
   url = {https://doi.org/10.6084/m9.figshare.27105970.v1}
+}
+```
+
+### Code [![DOI](https://img.shields.io/badge/GitHub-ozakary%2Fdata--NaMO2F2-yellow.svg)](https://github.com/ozakary/data-NaMO2F2)
+```bibtex
+@misc{zakary_namo2f2_github_2025,
+  author = {Zakary, Ouail and Body, Monique and Sarou-Konian, Vincent and Arnaud, Brice and Corbel, Gwenaël and Legein, Christophe},
+  title = {Supporting Code for "Different Magnitudes of Second-Order Jahn-Teller Effect in Isostructural NaMO$_2$F$_2$ (M = Nb, Ta) Oxyfluorides"},
+  year = {2025},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/ozakary/data-NaMO2F2}},
+  url = {https://github.com/ozakary/data-NaMO2F2}
 }
 ```
 
